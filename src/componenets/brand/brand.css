@@ -1,0 +1,12 @@
+.brand-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.brand-container img {
+  cursor: pointer;
+  user-select: none;
+}
